@@ -8,7 +8,7 @@ It's a pleasure to share with you my e-commerce project using :
 - MongoDB.
 - SemanticUI
 
-This projects can be useful for programmers, you will learn a lot and have an idea about how synchronise those technologies are in one porject,
+This projects can be useful for programmers, you will learn a lot and have an idea about how Synchronized those technologies are in one porject,
 
 Stay in tuned, The project will get better I will use several new advanced features such as security, unit test using Jest...
 
